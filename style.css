@@ -1,0 +1,12 @@
+.box1 {
+  overflow: scroll;
+  height: 500px;
+  width: 250px;
+  border: 5px solid navy;
+  border-radius: 1px;
+}
+.firsthesder {
+  background-color: crimson;
+  color: chartreuse;
+  width: 250px;
+}
